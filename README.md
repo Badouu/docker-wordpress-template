@@ -13,7 +13,7 @@ Utilisez la commande suivante pour supprimer les containers et les donnees persi
 $ docker-compose down --volumes
 ```
 
-Utilisez lla commande suivante pour configurer le container wordpress :
+Utilisez la commande suivante pour configurer le container wordpress :
 ```sh
 $ docker exec -it wordpress_wordpress_1 bash
 ```
